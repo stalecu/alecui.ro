@@ -1,15 +1,28 @@
+* Software and code examples
+Unless otherwise noted, the example programs and other software provided
+by alecui.ro are made available under the [[https://opensource.org/][OSI]]-approved [[https://opensource.org/licenses/mit-license.html][MIT license]].
 
-Source code is licensed under MIT license, given below.
+* Images
+Unless otherwise noted, all images are copyrighted to Alecu Ștefan-Iulian. All
+rights reserved.
+
+* Logos, copyrights and trademarks
+All logos, copyrights and trademarks referenced and used belong to their
+respective owners.
+
+* Articles
+All articles are licensed under [[https://creativecommons.org/licenses/by/4.0/][CC BY 4.0]]. The attribution requirement is only met when:
+1. The canonical link is directed towards the original article, e.g. ~<link rel="canonical" href="https://alecui.ro/en/example-page.html" />~
+2. The following message is displayed above and below the article:
+   a. for Romanian: ~Acest articol a fost publicat inițial pe <a href="https://alecui.ro/">website-ul lui Alecu Ștefan-Iulian</a>.~;
+   b. for English and other languages: ~This article has been originally posted on <a href="https://alecui.ro/">Alecu Ștefan-Iulian's website</a>.~.
 
 
-MIT License
+* Licenses
 
-
-Copyright (C) 2023- Alecu Ștefan-Iulian [[mailto:uneven-shiver@protonmail.com][uneven-shiver@protonmail.com]]
-
-
+** MIT license
 Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
+this software and associated documentation files (the “Software”), to deal in
 the Software without restriction, including without limitation the rights to
 use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
 the Software, and to permit persons to whom the Software is furnished to do so,
@@ -18,23 +31,14 @@ subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
 FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
-
-Unless otherwise stated, other content is licensed under CC BY 4.0, given below.
-
-
-
-Attribution 4.0 International
-
-=======================================================================
-
+** CC BY 4.0 license
 Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
 Creative Commons public licenses does not create a lawyer-client or
@@ -66,7 +70,7 @@ exhaustive, and do not form part of our licenses.
      material not subject to the license. This includes other CC-
      licensed material, or material used under an exception or
      limitation to copyright. More considerations for licensors:
-    wiki.creativecommons.org/Considerations_for_licensors
+	wiki.creativecommons.org/Considerations_for_licensors
 
      Considerations for the public: By using one of our public
      licenses, a licensor grants the public permission to use the
@@ -81,9 +85,9 @@ exhaustive, and do not form part of our licenses.
      rights in the material. A licensor may make special requests,
      such as asking that all changes be marked or described.
      Although not required by our licenses, you are encouraged to
-     respect those requests where reasonable. More considerations
+     respect those requests where reasonable. More_considerations
      for the public:
-    wiki.creativecommons.org/Considerations_for_licensees
+	wiki.creativecommons.org/Considerations_for_licensees
 
 =======================================================================
 
